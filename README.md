@@ -11,6 +11,4 @@ Voiceover (0:05 - 0:10): Evaluate Earth communication windows and calculate the 
 Voiceover (0:10 - 0:15): All the technical details you need, packed into an intuitive, easy-to-use interface.
 
 
-
-
-video2
+video2 : Datanauts: Navigate the data. Launch your mission today.
